@@ -22,8 +22,6 @@ When I'm not developing, I like to do yoga and play pokemon game.
 >
 > > [Code](https://github.com/mutedlemon/KOR-AI-Competition)
 >
-> **3) Stalking Detection Model based on Self-Attentive Sentence Embedding with BiLSTM**
-> > [Code](https://github.com/mutedlemon/Stalking-Detection-Platform) | [Related Paper](https://arxiv.org/abs/1703.03130) 
 > > 
 ### Data Analysis
 > **1) Incheon EV-Charging-Station Location Selection Platform**
