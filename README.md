@@ -8,8 +8,6 @@ I'm a statistician by education and usually try to understand why things happen.
 
 When I'm not developing, I like to do yoga and play pokemon game. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-han-2bab29281/)](https://www.linkedin.com/in/jiwon-han-2bab29281/)
-
 <br/>
 
 ## 🔭Projects
